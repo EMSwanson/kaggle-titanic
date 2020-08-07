@@ -1,4 +1,4 @@
-# My evolving quick attempts at the tutorial kaggle comp.
+# Quick attempts at the tutorial kaggle comp.
 
 1. Basic decision tree.
 

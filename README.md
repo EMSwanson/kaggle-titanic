@@ -1,8 +1,8 @@
-# My evolving attempt at the tutorial kaggle comp.
+# My evolving quick attempts at the tutorial kaggle comp.
 
-1. Started with a basic decision tree.
+1. Basic decision tree.
 
-2. Upgraded to random forest.
+2. Random forest.
 
 3. Added a grid search.
 

@@ -1,5 +1,8 @@
 # Quick attempts at the tutorial kaggle comp to teach others the simplest tools for basic ML.
 
+Items of note - used pipenv so look at the Pipfile for requirements and install pipenv to allow use of venvs, multiple analysis files of slightly increasing complexit.
+
+
 1. Basic decision tree.
 
 2. Random forest.

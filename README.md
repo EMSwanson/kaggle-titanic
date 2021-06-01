@@ -1,4 +1,4 @@
-# Quick attempts at the tutorial kaggle comp.
+# Quick attempts at the tutorial kaggle comp to teach others the simplest tools for basic ML.
 
 1. Basic decision tree.
 
